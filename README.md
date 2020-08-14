@@ -1,5 +1,5 @@
 <h1 align="center">
- <img alt="Proffy" src="images/Logo%20Proffy.png" width="20%" />
+ <img alt="Proffy" src="images/Logo%20Proffy.png" width="15%" />
 </h1>
 <h3 align="center">
  Projeto Proffy desenvolvido durante a 🚀Next Level Week 2 | Trilha OmniStack da <a href="https://rocketseat.com.br/">Rocketseat</a>
